@@ -10,6 +10,15 @@ git init
 
 git status
 
+
+
+
+> Hacer un commit
+
+git commit -m nombre_del_commit
+
+       ----------------
+
 > Stage all
 
 git add .
